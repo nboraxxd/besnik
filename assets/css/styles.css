@@ -64,7 +64,7 @@ a {
   position: sticky;
   z-index: 1;
   top: -24px;
-  padding-top: 24px;
+  /* padding-top: 24px; */
   background: rgba(230, 240, 255);
 }
 
@@ -72,7 +72,7 @@ a {
   display: flex;
   align-items: center;
   /* padding-top: 36px; */
-  padding: 12px 0;
+  padding: 36px 0 12px;
 }
 
 .navbar img {
